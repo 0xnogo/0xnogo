@@ -7,4 +7,4 @@
 
 💻 My current tech is: Typescript, React, Rust, Solidity.
 
-#️⃣ Current project count: 2
+#️⃣ Current project count: 3
